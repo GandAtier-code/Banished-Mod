@@ -1,0 +1,11 @@
+Might need to add entire {} sections to successfully update sections of code 
+Only replacing certain values seems to work in some cases, but not fully
+Modifying section of preexisting overrides entirely, so nothing can be left out unless we want to remove
+But why?
+Seems to be able to just tack on for profession in Apiary
+Unsure if it needs to be like how it currently is
+I wanna send a message to HushedAssassin - he created a debug menu mod, but Banished website is bullying me
+If enable gatherer harvesting, disables harvesting from crop field
+When gather plant with seed, enable seed, once planted crop field, disable seed. (would need to write actual code for this one)
+Poor practice to "edit" source code?
+Make Bani's default job include gatherer?

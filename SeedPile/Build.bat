@@ -1,0 +1,2 @@
+..\..\bin\x64\Tools-x64.exe /build LettuceResources.rsc:resource /pathres ../MyMods/SeedPile /pathdat ../MyMods/SeedPile/bin
+..\..\bin\x64\Tools-x64.exe /mod Package.rsc:SeedPile /pathres ../MyMods/SeedPile /pathdat ../MyMods/SeedPile/bin
